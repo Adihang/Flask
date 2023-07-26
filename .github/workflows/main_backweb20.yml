@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'backweb20'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8ACAB5019B4A4130A30A8740A51EFDD7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE5719D7E6EB46E79CD095CE079F6F9F }}
